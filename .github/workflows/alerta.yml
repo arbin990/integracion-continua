@@ -15,4 +15,4 @@ jobs:
 
       - name: Enviar notificación a ntfy.sh
         run: |
-          curl -d "Código actualizado en main 🚀" ntfy.sh/devops-itla
+          curl -d "Hola mundo desde github actions" ntfy.sh/devops-itla
